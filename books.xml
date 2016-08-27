@@ -113,10 +113,20 @@
 <book>
   <name>Who Is Malala Yousafzai? (Who Was...?)</name>
   <author>Dinah Brown</author>
-  <type>Children's Books , Facts of Life</type>
+  <type>Children's Books,Facts of Life</type>
   <ISBN>9780448489377</ISBN>
   <price>$5.99</price>
-  <publisher>Grosset & Dunlap</publisher>
+  <publisher>Grosset Dunlap</publisher>
+  <page>112</page>
+</book>
+
+<book>
+  <name>Who Is Malala Yousafzai? (Who Was...?)</name>
+  <author>Dinah Brown</author>
+  <type>Children's Books,Facts of Life</type>
+  <ISBN>9780448489377</ISBN>
+  <price>$5.99</price>
+  <publisher>Grosset Dunlap</publisher>
   <page>112</page>
 </book>
 
@@ -126,7 +136,7 @@
   <type>Children's Books , Facts of Life</type>
   <ISBN>9780448478630</ISBN>
   <price>$5.99</price>
-  <publisher>Grosset & Dunlap</publisher>
+  <publisher>Grosset Dunlap</publisher>
   <page>112</page>
 </book>
 
@@ -136,7 +146,7 @@
   <type>Children's Books , Facts of Life</type>
   <ISBN>9780448453309</ISBN>
   <price>$5.99</price>
-  <publisher>Grosset & Dunlap</publisher>
+  <publisher>Grosset Dunlap</publisher>
   <page>112</page>
 </book>
 
@@ -146,14 +156,14 @@
   <type>Children's Books , Facts of Life</type>
   <ISBN>9780448449074</ISBN>
   <price>$5.99</price>
-  <publisher>Grosset & Dunlap</publisher>
+  <publisher>Grosset Dunlap</publisher>
   <page>112</page>
 </book>
 
 <book>
   <name>The Land of Stories: An Author's Odyssey</name>
   <author>Chris Colfer</author>
-  <type>Children's Books , Fantasy & Magic</type>
+  <type>Children's Books , Fantasy,Magic</type>
   <ISBN>9780316383295</ISBN>
   <price>$19.99</price>
   <publisher>Little, Brown Books for Young Readers</publisher>
@@ -163,7 +173,7 @@
 <book>
   <name>The Land of Stories: Beyond the Kingdoms</name>
   <author>Chris Colfer</author>
-  <type>Children's Books , Fantasy & Magic</type>
+  <type>Children's Books , Fantasy,Magic</type>
   <ISBN>9780316406871</ISBN>
   <price>$8.99</price>
   <publisher>Little, Brown Books for Young Readers</publisher>
@@ -173,7 +183,7 @@
 <book>
   <name>The Land of Stories: A Grimm Warning</name>
   <author>Chris Colfer</author>
-  <type>Children's Books , Fantasy & Magic</type>
+  <type>Children's Books , Fantasy,Magic</type>
   <ISBN>9780316406826</ISBN>
   <price>$9.99</price>
   <publisher>Little, Brown Books for Young Readers</publisher>
@@ -183,7 +193,7 @@
 <book>
   <name>The Land of Stories: The Wishing Spell</name>
   <author>Chris Colfer</author>
-  <type>Children's Books , Fantasy & Magic</type>
+  <type>Children's Books , Fantasy,Magic</type>
   <ISBN>9780316201568</ISBN>
   <price>$9.99</price>
   <publisher>Little, Brown Books for Young Readers</publisher>
@@ -193,7 +203,7 @@
 <book>
   <name>The Night Circus</name>
   <author>Erin Morgenstern</author>
-  <type>Fiction,Mystery, Thriller & Suspense</type>
+  <type>Fiction,Mystery, Thriller,Suspense</type>
   <ISBN>9780307744432</ISBN>
   <price>$15.00</price>
   <publisher>Anchor Books</publisher>
@@ -212,7 +222,7 @@
 
 
 <book>
-  <name>The Miniature World of Marvin & James</name>
+  <name>The Miniature World of Marvin,James</name>
   <author>Elise Broach</author>
   <type>Children's Books</type>
   <ISBN>9781250069580</ISBN>
@@ -235,7 +245,7 @@
 <book>
   <name>Harry Potter and the Sorcerer's Stone</name>
   <author>J.K. Rowling</author>
-  <type>Science Fiction & Fantasy</type>
+  <type>Science Fiction,Fantasy</type>
   <ISBN>9780439708180</ISBN>
   <price>$10.99</price>
   <publisher>Scholastic</publisher>
@@ -245,7 +255,7 @@
 <book>
   <name>Harry Potter and the Cursed Child</name>
   <author>J.K. Rowling</author>
-  <type>Science Fiction & Fantasy</type>
+  <type>Science Fiction,Fantasy</type>
   <ISBN>9781338099133</ISBN>
   <price>$29.99</price>
   <publisher>Arthur A. Levine Books</publisher>
@@ -255,7 +265,7 @@
 <book>
   <name>Uninvited: Living Loved When You Feel Less Than, Left Out, and Lonely</name>
   <author>Lysa TerKeurst</author>
-  <type>Religion & Spirituality</type>
+  <type>Religion,Spirituality</type>
   <ISBN>9781400205875</ISBN>
   <price>$16.99</price>
   <publisher>Thomas Nelson</publisher>
@@ -265,7 +275,7 @@
 <book>
   <name>Red Queen</name>
   <author>Victoria Aveyard</author>
-  <type>Fiction, Mysteries & Thrillers</type>
+  <type>Fiction, Mysteries,Thrillers</type>
   <ISBN>9780062310644</ISBN>
   <price>$10.99</price>
   <publisher>HarperTeen</publisher>
@@ -285,7 +295,7 @@
 <book>
   <name>Hillbilly Elegy: A Memoir of a Family and Culture in Crisis</name>
   <author>J. D. Vance</author>
-  <type>Politics & Social Sciences</type>
+  <type>Politics,Social Sciences</type>
   <ISBN>9780062300546</ISBN>
   <price>$27.99</price>
   <publisher>Harper</publisher>
